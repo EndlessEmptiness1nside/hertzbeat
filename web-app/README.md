@@ -18,7 +18,7 @@
 
 1. Execute command in web-app  
 
-    ```ng build --configuration production```
+    ```ng build --configuration production хуйня```
 
 2. Execute command in root  
 
